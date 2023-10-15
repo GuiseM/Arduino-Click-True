@@ -12,6 +12,6 @@
 **Download the files and pass them through Arduino Software to your hardware, or use [tinkercad](https://www.tinkercad.com/) to use a virtual model.**
 
 ## 🔨 Built with
-- C++
-- Arduino
+- ``C++``
+- ``Arduino``
 <img height="350" src="https://github.com/cauemondek/arduino-click-true/blob/main/ArduinoMontageImg.png" alt="Project">
